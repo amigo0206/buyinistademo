@@ -55,14 +55,14 @@ body {
 
 .jumbotron {
 	position: relative;
-	background: url('https://www.dropbox.com/s/76wja005exjsg2h/handcraft.jpg?dl=1') center center;
+	background: url('handcraft.jpg') center center;
 	width: 100%;
-    height: 100%;
-    background-size: cover;
-    overflow: hidden;
-    h1, h2 {
-		color: white;
-		font-family: guardian-egyptt, georgia, serif;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+  h1, h2 {
+	color: white;
+	font-family: guardian-egyptt, georgia, serif;
 	}
 }
 
